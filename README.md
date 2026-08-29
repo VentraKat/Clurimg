@@ -48,7 +48,7 @@
 или
 
 ```html
-<script src="./clurimg.js"></script>
+<script src="https://raw.githubusercontent.com/VentraKat/Clurimg/refs/heads/main/clurimg.js"></script>
 ```
 
 ---
